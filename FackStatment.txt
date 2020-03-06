@@ -1,0 +1,99 @@
+Zara Phillips is the ancestor of Princess Beatrice.
+Elizabeth Bowes-Lyon is the ancestor of Cecilia Bowes-Lyon.
+Elizabeth IIis the descendent of Prince Harry.
+Prince Harry is the descendent of Prince William.
+Autumn Phillips is the Wife of Prince Harry.
+Peter Phillipsis the Wife of Sarah Fergie Ferguson.
+Sarah Fergie Ferguson is the husband of Peter Phillips.
+Prince Harry is the husband of Zara Phillips.
+Prince Harry is the child of Isla Elizabeth Phillips.
+Prince Louis is the child of Princess Eugenie.
+Prince William is the child of Elizabeth II.
+Prince Harry is the child of Princess Anne.
+Prince Charles is the child of Prince William.
+David Armstrong-Jones is the child of Prince William.
+Lady Sarah Chatto is the child of David Armstrong-Jones.
+Prince Louisis the Son of Elizabeth II.
+Princess Beatrice is the son of Elizabeth II.
+Mary Elphinstone is the son of Cecilia Bowes-Lyon.
+Kate Middleton is the daughter of Prince William.
+Prince Louis is the daughter of Prince William.
+Samuel Chatto is the daughter of Lady Sarah Chatto.
+Cecilia Bowes-Lyon is the father of Elizabeth Bowes-Lyon.
+Princess Charlotte is the father of	Prince George.
+Prince Harry is the father of Kate Middleton.
+Meghan Markle is the mother of Lena Elizabeth Tindall.
+Prince William is the mother_Of Prince Louis.
+David Armstrong-Jones is the mother of Serena Armstrong-Jones.
+Prince George is the siblings of Princess Beatrice.
+Princess Margaret is the siblings of Daniel Chatto.
+Samuel Chatto is the siblings of Lady Sarah Chatto.
+Arthur Chatto is the siblings of Charles Armstrong-Jones.
+Isla Elizabeth Phillips is the sister of Princess Beatrice.
+Elizabeth II is the sister of Prince Charles.
+Prince Harry is the sister of Prince William.
+rincess Beatrice is the brother of Princess Eugenie.
+Prince George is the brother of Prince William'
+Isla Elizabeth Phillips is the brother of Prince William.
+Prince Louis is the aunt of Isla Elizabeth Phillips.
+Lady Sarah Chatto is the aunt of Samuel Chatto.
+Princess Beatrice is the aunt of Isla Elizabeth Phillips.
+Kate Middleton is the aunt-In Law of Prince William.
+Lady Sarah Chatto is the aunt-In Law Lady Margarita Armstrong-Jones.
+Prince George is the uncle of Prince Edward.
+Princess Beatrice is the uncle of Prince Edward.
+Lady Sarah Chatto is the uncle of Charles Armstrong-Jones.
+Prince George is the Uncle-In-Law of Prince Edward.
+Prince Edward is the Uncle-In-Law of Prince William.
+David Armstrong-Jones is the Uncle-In-Law of Arthur Chatto.
+Isla Elizabeth Phillips is the niece of	James.
+Prince Louis is the niece of	Prince Harry.
+Arthur Chatto is the niece of	David Armstrong-Jones.
+Princess Charlotte is the niece-In-Law of Prince Harry.
+Arthur Chatto is the nephew of Prince Harry.
+Princess Beatrice is the nephew of Princess Eugenie.
+Princess Beatrice is the nephew of Prince Charles.
+Prince Louis is the nephew-In-Law of Prince Charles.
+Princess Beatrice is the nephew-In-Law of Prince Charles.
+Prince George is the nephew-In-Law of Lady Sarah Chatto.
+Prince Louis is the cousin of Prince Charles.
+Prince Louis is the cousin of Prince Harry.
+Isla Elizabeth Phillips is the cousin of Savannah Phillips.
+Prince Louis is the cousin of Lady Sarah Chatto.
+Isla Elizabeth Phillips is the cousin-In-Law of Savannah Phillips.
+Lady Sarah Chatto is the cousin-In-Law of Princess Anne.
+Elizabeth II is the child-In-Law of Princess Anne.
+Prince Harry is the son-In-Law of Princess Anne.
+Princess Beatrice is the son-In-Law of Prince William.
+Arthur Chatto is the son-In-Law of Lady Sarah Chatto.
+Isla Elizabeth Phillips is the daughter-In-Law of Princess Beatrice.
+Prince Charles is the daughter-In-Law of Princess Beatrice.
+Lady Sarah Chatto is the daughter-In-Law of Princess Margaret.
+James is the parent-In-Law of Prince Harry.
+Princess Margaret is the mother-In-Law of Zara Phillips.
+Prince Charles is the mother-In-Law of Zara Phillips.
+Elizabeth II is the mother-In-Law of Zara Phillips.
+Savannah Phillips is the father-In-Law of Prince William.
+Peter Phillips is the father-In-Law of Prince William.
+Arthur Chatto is the father-In-Law of Princess Margaret.
+Prince Harry is the sibling-In-Law of Princess Beatrice.
+Mia Grace Tindall is the sister-In-Law of Princess Eugenie.
+Prince Harry is the sister-In-Law of Princess Eugenie.
+Princess Margaret is the sister-In-Law of Princess Eugenie.
+Elizabeth II is the brother-In-Law of Savannah Phillips.
+Peter Phillips is the brother-In-Law of Savannah Phillips.
+Prince Harry is the grand child of Peter Phillips.
+Prince William is the grand son of Princess Anne.
+Lady Sarah Chatto is the grand son of Princess Anne.
+Savannah Phillips is the grand son of Princess Anne.
+Peter Phillips is the grand daughter of Elizabeth II.
+Princess Anne is the grand daughter of Elizabeth II.
+Prince Harry is the grand parent of Mia Grace Tindall..
+Arthur Chatto is the grand parent of Princess Beatrice.
+Lady Sarah Chatto is the grand parent of Mia Grace Tindall.
+Prince William is the grand father of Elizabeth II.
+Princess Anne is the grand father Isla Elizabeth Phillips.
+Princess Beatrice is the grand mother of Peter Phillips.
+Prince Philip is the grand mother of Prince William.
+Prince Philip is the grand mother of Arthur Chatto.
+Princess Margaret is the grand mother of Prince William.

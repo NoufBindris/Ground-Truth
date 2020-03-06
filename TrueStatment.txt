@@ -1,0 +1,99 @@
+Princess Anne is the ancestor of Zara Phillips.
+Prince Charles is the descendent of Elizabeth II.
+Elizabeth II is the wife of Prince Philip.
+Autumn Phillips is the wife of Peter Phillips.
+Antony Armstrong-Jones is the husband of Princess Margaret.
+Prince William is the husband of Kate Middleton.
+Elizabeth Bowes-Lyon is the mother of Elizabeth II.
+Lady Sarah Chatto is the mother of Samuel Chatto.
+Prince Charles is the father of Prince William.
+Prince William is the father of Prince George.
+Princess Anne is the daughter of Elizabeth II.
+Peter Phillips is the son of Princess Anne.
+Lady Sarah Chatto is the child of Princess Margaret.
+Prince Harry is the child of Prince Charles.
+Prince Andrew is the child of Elizabeth II.
+Prince Edward is the child of Elizabeth II.
+Lady Margarita Armstrong-Jones is the siblings of Charles Armstrong-Jones.
+Savannah Phillips is the siblings of Isla Elizabeth Phillips.
+Princess Beatrice is the siblings of Princess Eugenie.
+Elizabeth II is the siblings of Princess Margaret.
+Zara Phillips is the siblings of Peter Phillips.
+Prince George is the siblings of Prince Louis.
+Prince Edward is the siblings of Prince Charles.
+Prince William is the siblings of Prince Harry.
+Princess Eugenie is the sister of Princess Beatrice.
+Sister_Of:'Elizabeth II is the sister of Princess Margaret.
+Lady Louise Windsor is the sister of James.
+Princess Anne is the sister of Prince Charles.
+Mia Grace Tindall is the sister of Lena Elizabeth Tindall.
+Princess Anne is the sister of Prince Andrew.
+Lady Margarita Armstrong-Jones is the sister of Charles Armstrong-Jones.
+Prince Charles is the brother of Princess Anne.
+Prince Andrew is the brother of Princess Anne.
+Prince Charles is the brother of Prince Andrew.
+Prince Andrew is the brother of Prince Charles.
+Peter Phillips is the brother of Zara Phillips.
+Prince George is the brother of Princess Charlotte.
+Princess Eugenie is the niece of Princess Anne.
+Zara Phillips is the niece of Prince Charles.
+Lady Sarah Chatto is the niece of Elizabeth II.
+Princess Eugenie is the niece of Prince Charles.
+Princess Charlotte is the niece of Prince Harry.
+Princess Charlotte is the niece-In-Law of Meghan Markle.
+Prince William is the nephew of Princess Anne.
+Peter Phillips is the nephew of Prince Charles.
+David Armstrong-Jones is the nephew of Elizabeth II.
+Prince Louis is the nephew-In-Law of Meghan Markle.
+Princess Margaret is the aunt of Princess Anne.
+Princess Anne is the aunt of Prince William.
+Princess Margaret is the aunt of Prince Charles.
+Mary Elphinstone is the aunt of Elizabeth II.
+Lady Sarah Chatto is the aunt of Charles Armstrong-Jones.  
+Meghan Markle is the aunt-In-Law of Princess Charlotte.
+Princess Anne is the aunt-In-Law of Kate Middleton.
+Sarah Fergie Ferguson is the aunt-In-Law of Prince William.
+Prince Charles is the uncle of Princess Eugenie.
+Prince EdwardPrince William.
+Prince Edward is the uncle of Peter Phillips.
+Prince Charles is the uncle of Peter Phillips.
+David Armstrong-Jones is the uncle of Arthur Chatto.
+Capt Mark Phillips is the uncle-In-Law of Prince William.
+Princess Eugenie is the cousin of Prince William.
+Peter Phillips is the cousin of Princess Eugenie.
+Prince William is the cousin of Princess Beatrice.
+Prince Charles is the cousin of David Armstrong-Jones.
+Princess Anne is the cousin of Lady Sarah Chatto.
+Elizabeth II is the cousin of Margaret Elphinstone.
+Peter Phillips is the cousin-In-Law of Kate Middleton.
+Autumn Phillips is the child-In-Law of Princess Anne.
+Capt Mark Phillips is the son-In-Law of Elizabeth II.
+Diana Spencer is the daughter-In-Law of Elizabeth II.
+Elizabeth II is the parent-In-Law of Sarah Fergie Ferguson.
+Elizabeth II is the mother-In-Law of Diana Spencer.
+Prince Philip is the father-In-Law of Diana Spencer.
+Elizabeth II is the sibling-In-Law of Antony Armstrong-Jones.
+Diana Spencer is the sister-In-Law of Princess Anne.
+Serena Armstrong-Jones is the sister-In-Law of Lady Sarah Chatto.
+Kate Middleton is the sister-In-Law of Prince Harry.
+Meghan Markle is the sister-In-Law of Prince William.
+Diana Spencer is the sister-In-Law of Prince Andrew.
+Diana Spencer is the sister-In-Law of Prince Edward.
+Antony Armstrong-Jones is the brother-In-Law of Elizabeth II.
+Daniel Chatto is the brother-In-Law David Armstrong-Jones.
+Capt Mark Phillips is the brother-In-Law Prince Charles.
+Prince Charles is the brother-In-Law Sarah Fergie Ferguson.
+Prince Edward is the brother-In-Law Diana Spencer.
+Prince Philip is the brother-In-Law Princess Margaret.
+Mike Tindall is the brother-In-Law Peter Phillips.
+Prince William is the grand child of Elizabeth II.
+Prince Harry is the grand child of Elizabeth II.
+Lady Louise Windsor is the grand child of Elizabeth II.
+Princess Eugenie is the grand child of Elizabeth II.
+Prince William is the grand son of Prince Philip.
+Princess Beatrice is the grand daughter of Elizabeth II.
+Elizabeth II is the grand parent of Princess Eugenie.
+Princess Anne is the grand parent of Mia Grace Tindall.
+Princess Anne is the grand parent of Savannah Phillips.
+Prince Philip is the grand father of Prince Harry.
+Elizabeth II is the grandmother of Prince William.
