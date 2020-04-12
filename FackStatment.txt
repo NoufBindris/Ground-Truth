@@ -1,6 +1,6 @@
 Zara Phillips is the ancestor of Princess Beatrice.
 Elizabeth Bowes-Lyon is the ancestor of Cecilia Bowes-Lyon.
-Elizabeth IIis the descendent of Prince Harry.
+Elizabeth II is the descendent of Prince Harry.
 Prince Harry is the descendent of Prince William.
 Autumn Phillips is the Wife of Prince Harry.
 Peter Phillipsis the Wife of Sarah Fergie Ferguson.
@@ -13,7 +13,7 @@ Prince Harry is the child of Princess Anne.
 Prince Charles is the child of Prince William.
 David Armstrong-Jones is the child of Prince William.
 Lady Sarah Chatto is the child of David Armstrong-Jones.
-Prince Louisis the Son of Elizabeth II.
+Prince Louis is the Son of Elizabeth II.
 Princess Beatrice is the son of Elizabeth II.
 Mary Elphinstone is the son of Cecilia Bowes-Lyon.
 Kate Middleton is the daughter of Prince William.
@@ -32,7 +32,7 @@ Arthur Chatto is the siblings of Charles Armstrong-Jones.
 Isla Elizabeth Phillips is the sister of Princess Beatrice.
 Elizabeth II is the sister of Prince Charles.
 Prince Harry is the sister of Prince William.
-rincess Beatrice is the brother of Princess Eugenie.
+Princess Beatrice is the brother of Princess Eugenie.
 Prince George is the brother of Prince William'
 Isla Elizabeth Phillips is the brother of Prince William.
 Prince Louis is the aunt of Isla Elizabeth Phillips.
