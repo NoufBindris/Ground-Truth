@@ -20,7 +20,7 @@ Kate Middleton is the daughter of Prince William.
 Prince Louis is the daughter of Prince William.
 Samuel Chatto is the daughter of Lady Sarah Chatto.
 Cecilia Bowes-Lyon is the father of Elizabeth Bowes-Lyon.
-Princess Charlotte is the father of	Prince George.
+Princess Charlotte is the father of Prince George.
 Prince Harry is the father of Kate Middleton.
 Meghan Markle is the mother of Lena Elizabeth Tindall.
 Prince William is the mother_Of Prince Louis.
