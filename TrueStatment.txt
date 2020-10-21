@@ -23,7 +23,7 @@ Prince George is the siblings of Prince Louis.
 Prince Edward is the siblings of Prince Charles.
 Prince William is the siblings of Prince Harry.
 Princess Eugenie is the sister of Princess Beatrice.
-Sister_Of:'Elizabeth II is the sister of Princess Margaret.
+Elizabeth II is the sister of Princess Margaret.
 Lady Louise Windsor is the sister of James.
 Princess Anne is the sister of Prince Charles.
 Mia Grace Tindall is the sister of Lena Elizabeth Tindall.
@@ -54,7 +54,7 @@ Meghan Markle is the aunt-In-Law of Princess Charlotte.
 Princess Anne is the aunt-In-Law of Kate Middleton.
 Sarah Fergie Ferguson is the aunt-In-Law of Prince William.
 Prince Charles is the uncle of Princess Eugenie.
-Prince EdwardPrince William.
+Prince Edward is the uncle of Prince William.
 Prince Edward is the uncle of Peter Phillips.
 Prince Charles is the uncle of Peter Phillips.
 David Armstrong-Jones is the uncle of Arthur Chatto.
